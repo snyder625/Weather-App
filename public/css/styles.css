@@ -1,0 +1,23 @@
+body {
+    background-color: #ff4c68;
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    text-align: center;
+}
+
+h1 {
+    color: #fff;
+    padding: 10rem 0 2.5rem;
+    text-align: center;
+}
+
+.button {
+    margin: 2.5rem 0;
+}
+
+.input-box {
+    font-family: 'Open Sans', sans-serif;
+    width: 300px;
+    height:30px;
+    border:1px solid black;
+}
